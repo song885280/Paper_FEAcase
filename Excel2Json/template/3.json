@@ -1,0 +1,21 @@
+{
+    "FEA task":{
+        "Product information": {
+            "Equipment name": [],
+            "Part name": [],
+            "Design requirement": []
+        },
+        "Analysis aim": [
+
+        ],
+        "Material and physical data": {
+            "Material designation": [],
+            "Material property": []
+        },
+        "Working condition": {
+            "Design condition": [],
+            "Operation condition": []
+        }
+    }
+    
+}

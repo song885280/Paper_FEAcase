@@ -1,0 +1,47 @@
+{
+  "FEA task": [
+    {
+      "Product information": [
+        {
+          "Equipment name": [
+            "compound compressor",
+            " exhaust buffer tank"
+          ],
+          "Part name": [],
+          "Design requirement": [
+            "JB4732-1995 \"Steel Pressure Vessel - Analytical Design\""
+          ]
+        }
+      ],
+      "Analysis aim": [
+        "fatigue analysis"
+      ],
+      "Material and physical data": [
+        {
+          "Material designation": [
+            "Q345R"
+          ],
+          "Material property": [
+            "density",
+            "elasticity modulus",
+            "poisson ratio",
+            "yield strength",
+            "tensile strength",
+            "factor of strength"
+          ]
+        }
+      ],
+      "Working condition": [
+        {
+          "Design condition": [
+            "design life"
+          ],
+          "Operation condition": [
+            "working pressure",
+            "minimum operating pressure"
+          ]
+        }
+      ]
+    }
+  ]
+}
